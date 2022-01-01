@@ -1,7 +1,7 @@
 1. 在GitHub创建仓库learngit, 有git@github.com:Yixiang-Wu/EssentialCPP.git
 2. 在本地创建某文件夹tempDir
-3. git remote add origin git@github.com:Yixiang-Wu/EssentialCPP.git
-4. git init
+3. git init
+4. git remote add origin git@github.com:Yixiang-Wu/EssentialCPP.git
 5. git add * //添加所有到临时仓库
 6. git commit -m "提交说明" //提交到临时仓库
 7. git push -u origin master //提交到远程仓库
